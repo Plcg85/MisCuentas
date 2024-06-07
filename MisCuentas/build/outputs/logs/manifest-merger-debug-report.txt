@@ -1,0 +1,285 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:2:1-203:12
+INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:2:1-203:12
+INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:2:1-203:12
+INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:2:1-203:12
+	package
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:13:5-201:19
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:17:9-40
+activity#com.plcg.miscuentas.MainActivity
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:19:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:24:27-74
+activity#com.plcg.miscuentas.NuevoGastoCorriente
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:29:13-58
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:28:13-47
+intent-filter#action:name:com.plcg.NuevoGastoCorriente+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:31:13-35:29
+action#com.plcg.NuevoGastoCorriente
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:32:17-71
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:32:25-68
+category#android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:34:27-73
+activity#com.plcg.miscuentas.NuevoIngresoPuntual
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:37:9-46:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:39:13-58
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:38:13-47
+intent-filter#action:name:com.plcg.NuevoIngresoPuntual+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:41:13-45:29
+action#com.plcg.NuevoIngresoPuntual
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:42:17-71
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:42:25-68
+activity#com.plcg.miscuentas.NuevoIngresoFijo
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:47:9-56:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:49:13-55
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:48:13-44
+intent-filter#action:name:com.plcg.NuevoIngresoFijo+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:51:13-55:29
+action#com.plcg.NuevoIngresoFijo
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:52:25-65
+activity#com.plcg.miscuentas.NuevoGastoFijo
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:57:10-66:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:59:13-53
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:58:13-42
+intent-filter#action:name:com.plcg.NuevoGastoFijo+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:61:13-65:29
+action#com.plcg.NuevoGastoFijo
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:62:17-66
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:62:25-63
+activity#com.plcg.miscuentas.EliminarFijos
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:67:9-75:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:69:13-51
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:68:13-41
+intent-filter#action:name:com.plcg.EliminarFijos+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:70:13-74:29
+action#com.plcg.EliminarFijos
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:71:17-65
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:71:25-62
+activity#com.plcg.miscuentas.EliminarPuntuales
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:76:9-84:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:78:13-55
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:77:13-45
+intent-filter#action:name:com.plcg.EliminarPuntuales+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:79:13-83:29
+action#com.plcg.EliminarPuntuales
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:80:25-66
+activity#com.plcg.miscuentas.EstadisticasOpciones
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:85:9-94:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:87:13-62
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:86:13-48
+intent-filter#action:name:com.plcg.EstadisticasOpciones+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:89:13-93:29
+action#com.plcg.EstadisticasOpciones
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:90:17-72
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:90:25-69
+activity#com.plcg.miscuentas.Estadisticas
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:96:10-104:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:97:13-40
+intent-filter#action:name:com.plcg.Estadisticas+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:99:13-103:29
+action#com.plcg.Estadisticas
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:100:17-64
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:100:25-61
+activity#com.plcg.miscuentas.GraficaDelMes
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:106:9-114:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:108:13-52
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:107:13-41
+intent-filter#action:name:com.plcg.GraficaDelMes+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:109:13-113:29
+action#com.plcg.GraficaDelMes
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:110:17-65
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:110:25-62
+activity#com.plcg.miscuentas.DesgloseDeMes
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:115:9-123:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:117:13-53
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:116:13-41
+intent-filter#action:name:com.plcg.DesgloseDeMes+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:118:13-122:29
+action#com.plcg.DesgloseDeMes
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:119:17-65
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:119:25-62
+activity#com.plcg.miscuentas.EstadisticaOpciones
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:125:9-133:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:127:13-45
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:126:13-47
+intent-filter#action:name:com.plcg.EstadisticaOpciones+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:128:13-132:29
+action#com.plcg.EstadisticaOpciones
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:129:17-71
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:129:25-68
+activity#com.plcg.miscuentas.EstadisticaAnual
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:135:9-143:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:137:13-54
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:136:13-44
+intent-filter#action:name:com.plcg.EstadisticaAnual+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:138:13-142:29
+action#com.plcg.EstadisticaAnual
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:139:17-68
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:139:25-65
+activity#com.plcg.miscuentas.DesgloseDeDia
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:145:9-154:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:147:14-53
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:148:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:146:13-41
+intent-filter#action:name:com.plcg.DesgloseDeDia+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:149:13-153:29
+action#com.plcg.DesgloseDeDia
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:150:17-65
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:150:25-62
+activity#com.plcg.miscuentas.EstadisticaDeUnTipoGasto
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:156:8-165:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:158:13-50
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:159:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:157:13-52
+activity#com.plcg.miscuentas.EstadisticaMensual
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:167:9-175:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:169:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:168:13-46
+intent-filter#action:name:com.plcg.EstadisticaMensual+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:170:13-174:29
+action#com.plcg.EstadisticaMensual
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:171:17-70
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:171:25-67
+activity#com.plcg.miscuentas.EstadisticaDeUnTipoGastoMes
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:177:9-186:20
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:179:13-54
+	android:theme
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:180:13-56
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:178:13-55
+intent-filter#action:name:com.plcg.EstadisticaDeUnTipoGastoMes+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:181:13-185:29
+action#com.plcg.EstadisticaDeUnTipoGastoMes
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:182:17-79
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:182:25-76
+activity#com.plcg.miscuentas.Preferencias
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:188:9-197:20
+	android:parentActivityName
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:191:13-61
+	android:label
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:190:13-49
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:189:13-60
+intent-filter#action:name:com.plcg.miscuentas.Preferencias+category:name:android.intent.category.DEFAULT
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:192:13-196:29
+action#com.plcg.miscuentas.Preferencias
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:193:17-75
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:193:25-72
+activity#org.achartengine.GraphicalActivity
+ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:199:9-81
+	android:name
+		ADDED from I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\AndroidManifest.xml:199:19-68

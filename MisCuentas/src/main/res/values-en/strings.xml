@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My accounts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    			<!-- main activity -->
+    <string name ="mas_gasto_puntual">+ Expenditure</string>
+    <string name="mas_gasto_fijo">+ Fixed Expenses</string>
+    <string name="mas_ingreso_puntual">+ Join Timely</string>
+    <string name="mas_ingreso_fijo">+ Fixed Income</string>
+    <string name="menos_fijos">- Fixed</string>
+    <string name="menos_puntuales">- Punctual</string>
+    <string name="estadisticas">Statistics</string>
+    			<!-- Desglose del dia  -->
+    <string name="gastos_puntuales">Off charges</string>
+    <string name="ingresos_puntuales">Off revenues</string>
+    			<!-- Desglose del mes  -->
+    <string name="dia">Day</string>
+    <string name="ingresado">Joined</string>
+    <string name="gastado">I spent</string>
+    			<!-- Eliminar Fijos  -->
+    <string name="eliminar_gastos_fijos">Remove overhead</string>
+    <string name="eliminar_ingresos_fijos">Remove fixed income</string>
+    			<!-- Eliminar Puntuales  -->
+    <string name="eliminar_gastos_puntuales">Remove specific expenses</string>
+    <string name="eliminar_ingresos_puntuales">Clear off revenues</string>
+    			<!-- Estadistica Opciones  -->
+    <string name="elige_un_anio">Select year</string>
+    <string name="elige_un_mes">Select month</string>
+    			<!-- Nuevo Gasto Corriente -->
+    <string name="concepto_del_gasto">Concept spending</string>
+    <string name="mes">Month</string>
+    <string name="anio">Year</string>
+    			<!-- Nuevo Gasto Fijo  -->
+    <string name="concepto">Concept</string>
+    			<!-- Preferencias -->
+    <string name="sonido_general"> General Sound</string>
+    <string name="copia_de_seguridad">Backup</string>
+    <string name="restaurar_copia">Restore backup</string>
+    <string name="activado">On</string>
+    <string name="desactivado">Off</string>
+    <string name="restaurar">Restore</string>
+    <string name="opciones">Options</string>
+    			<!-- otros  -->
+    <string name="cero">0.00 €</string>
+    <string name="barra">/</string>
+    
+</resources>

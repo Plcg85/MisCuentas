@@ -1,0 +1,179 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" 
+    android:background="@drawable/fondo">
+    <RelativeLayout 
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal">
+    	
+    	<TextView 
+        	android:id="@+id/textDineroRestante"
+        	android:layout_centerHorizontal="true"
+        	android:layout_centerVertical="true"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:textSize="50sp"
+        	android:textColor="#00a000"
+        	android:clickable="true"
+        	android:textStyle="bold"
+        	android:text="0"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical">
+    	<LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content" 
+        	android:orientation="horizontal">
+        	<Button
+            	android:id="@+id/btnGastoCorriente"
+            	android:layout_width="wrap_content"
+            	android:layout_weight="1"
+            	android:layout_height="wrap_content"
+            	android:text="@string/mas_gasto_puntual" 
+            	android:textStyle="bold"
+            	android:background="@drawable/boton"/>
+
+        	<Button
+        	    android:id="@+id/btnGastoFijo"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    android:layout_weight="1"
+        	    android:background="@drawable/boton"
+        	    android:text="@string/mas_gasto_fijo"
+        	    android:textStyle="bold" />
+
+        </LinearLayout>
+        <LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="2dp" 
+        	android:orientation="vertical"/>
+		<LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content" 
+        	android:orientation="horizontal">
+
+        	 <Button
+        	     android:id="@+id/btnIngresoPuntual"
+        	     android:layout_width="wrap_content"
+        	     android:layout_height="wrap_content"
+        	     android:layout_weight="1"
+        	     android:background="@drawable/boton"
+        	     android:text="@string/mas_ingreso_puntual"
+        	     android:textStyle="bold" />
+
+        	 <Button
+        	     android:id="@+id/btnIngresoFijo"
+        	     android:layout_width="wrap_content"
+        	     android:layout_height="wrap_content"
+        	     android:layout_weight="1"
+        	     android:background="@drawable/boton"
+        	     android:text="@string/mas_ingreso_fijo"
+        	     android:textStyle="bold" />
+ 
+        </LinearLayout>
+        <LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="2dp" 
+        	android:orientation="vertical"/>
+        <LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content" 
+        	android:orientation="horizontal">
+        	
+            <Button
+                android:id="@+id/btnEliminarFijos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boton"
+                android:text="@string/menos_fijos"
+                android:textStyle="bold" />
+		
+        	<Button
+        	    android:id="@+id/btnEliminarPuntuales"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    android:layout_weight="1"
+        	    android:background="@drawable/boton"
+        	    android:text="@string/menos_puntuales"
+        	    android:textStyle="bold" />
+
+		</LinearLayout>     
+		<LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="2dp" 
+        	android:orientation="vertical"/>  
+		
+        <Button
+            android:id="@+id/btnEstadisticas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/boton"
+            android:text="@string/estadisticas"
+            android:textStyle="bold" />
+            	
+        <LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="2dp" 
+        	android:orientation="vertical"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnAnterior"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/botonatras"/>	
+        <TextView 
+        	android:id="@+id/textFecha"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:textSize="25sp"/>
+        <Button
+        	android:id="@+id/btnSiguiente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/botonsiguiente"/>	
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal">
+        <TextView 
+            android:id="@+id/textGastoDeHoy"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"
+        	android:background="#DDDDDD"/>
+   
+    </LinearLayout>
+    
+    
+    <ListView
+        android:id="@+id/listGastosHoy"
+        android:cacheColorHint="#00000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </ListView>
+
+</LinearLayout>

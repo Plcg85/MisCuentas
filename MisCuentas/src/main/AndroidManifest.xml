@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.plcg.miscuentas"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.plcg.miscuentas.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="NuevoGastoCorriente"
+            android:label="@string/nuevo_gasto_corriente"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.NuevoGastoCorriente" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="NuevoIngresoPuntual"
+            android:label="@string/nuevo_ingreso_puntual" 
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.NuevoIngresoPuntual" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="NuevoIngresoFijo"
+            android:label="@string/nuevo_ingreso_fijo"  
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.NuevoIngresoFijo" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="NuevoGastoFijo"
+            android:label="@string/nuevo_gasto_fijo"   
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.NuevoGastoFijo" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="EliminarFijos"
+            android:label="@string/eliminar_fijos">
+            <intent-filter>
+                <action android:name="com.plcg.EliminarFijos" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="EliminarPuntuales" 
+            android:label="@string/eliminar_puntuales">
+            <intent-filter>
+                <action android:name="com.plcg.EliminarPuntuales" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="EstadisticasOpciones" 
+            android:label="@string/introduce_una_contrasenia"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.EstadisticasOpciones" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name="Estadisticas"
+            android:label="@string/estadisticas">
+            <intent-filter>
+                <action android:name="com.plcg.Estadisticas" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="GraficaDelMes"
+            android:label="@string/grafica_del_mes">
+            <intent-filter>
+                <action android:name="com.plcg.GraficaDelMes" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="DesgloseDeMes"
+            android:label="@string/desglose_del_mes">
+            <intent-filter>
+                <action android:name="com.plcg.DesgloseDeMes" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="EstadisticaOpciones"
+            android:label="@string/opciones">
+            <intent-filter>
+                <action android:name="com.plcg.EstadisticaOpciones" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="EstadisticaAnual"
+            android:label="@string/estadistica_anual">
+            <intent-filter>
+                <action android:name="com.plcg.EstadisticaAnual" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="DesgloseDeDia"
+             android:label="@string/desglose_de_dia"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.DesgloseDeDia" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+       <activity
+            android:name="EstadisticaDeUnTipoGasto"
+            android:label="@string/tipo_de_gasto"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.DesgloseDeDia" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       
+        <activity
+            android:name="EstadisticaMensual"
+            android:label="@string/estadistica_mensual">
+            <intent-filter>
+                <action android:name="com.plcg.EstadisticaMensual" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>     
+        
+        <activity
+            android:name="EstadisticaDeUnTipoGastoMes"
+            android:label="@string/tipo_de_gasto_mes"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.plcg.EstadisticaDeUnTipoGastoMes" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.plcg.miscuentas.Preferencias"
+            android:label="@string/preferencias"
+            android:parentActivityName="com.plcg.MisCuentas">
+            <intent-filter>
+                <action android:name="com.plcg.miscuentas.Preferencias" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       
+        <activity android:name="org.achartengine.GraphicalActivity" ></activity>
+       
+    </application>
+
+</manifest>

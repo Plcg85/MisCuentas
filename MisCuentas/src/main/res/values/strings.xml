@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mis Cuentas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    			<!-- main activity -->
+    <string name ="mas_gasto_puntual">+ Gasto Puntual</string>
+    <string name="mas_gasto_fijo">+ Gasto Fijo</string>
+    <string name="mas_ingreso_puntual">+ Ingreso Puntual</string>
+    <string name="mas_ingreso_fijo">+ Ingreso Fijo</string>
+    <string name="menos_fijos">- Fijos</string>
+    <string name="menos_puntuales">- Puntuales</string>
+    <string name="estadisticas">Estadisticas</string>
+    			<!-- Desglose del dia  -->
+    <string name="gastos_puntuales">Gastos Puntuales</string>
+    <string name="ingresos_puntuales">Ingresos Puntuales</string>
+    			<!-- Desglose del mes  -->
+    <string name="dia">Dia</string>
+    <string name="ingresado">Ingresado</string>
+    <string name="gastado">Gastado</string>
+    			<!-- Eliminar Fijos  -->
+    <string name="eliminar_gastos_fijos">Eliminar Gastos Fijos</string>
+    <string name="eliminar_ingresos_fijos">Eliminar Ingresos Fijos</string>
+    			<!-- Eliminar Puntuales  -->
+    <string name="eliminar_gastos_puntuales">Eliminar Gastos Puntuales</string>
+    <string name="eliminar_ingresos_puntuales">Eliminar Ingresos Puntuales</string>
+    			<!-- Estadistica Opciones  -->
+    <string name="elige_un_anio">Elige un año</string>
+    <string name="elige_un_mes">Elige un mes</string>
+    			<!-- Nuevo Gasto Corriente -->
+    <string name="concepto_del_gasto">Concepto del gasto</string>
+    <string name="mes">Mes</string>
+    <string name="anio">Año</string>
+    			<!-- Nuevo Gasto Fijo  -->
+    <string name="concepto">Concepto</string>
+    			<!-- Preferencias -->
+    <string name="sonido_general"> Sonido general</string>
+    <string name="copia_de_seguridad">Copia de seguridad</string>
+    <string name="restaurar_copia">Restaurar copia</string>
+    <string name="activado">Activado</string>
+    <string name="desactivado">Desactivado</string>
+    <string name="restaurar">Restaurar</string>
+    <string name="opciones">Opciones</string>
+    			<!-- otros  -->
+    <string name="cero">0.00 €</string>
+    <string name="barra">/</string>
+    			<!-- Titulos de las ventanas  -->
+    <string name="nuevo_gasto_corriente">Nuevo Gasto Corriente</string>
+    <string name="nuevo_ingreso_puntual">Nuevo Ingreso Puntual</string>
+    <string name="nuevo_ingreso_fijo">Nuevo Ingreso Fijo</string>
+    <string name="nuevo_gasto_fijo">Nuevo Gasto Fijo</string>
+    <string name="eliminar_fijos">Eliminar Fijos</string>
+    <string name="eliminar_puntuales">Eliminar Puntuales</string>
+    <string name="introduce_una_contrasenia">Introduce una contraseña</string>
+    <string name="grafica_del_mes">Grafica del mes</string>
+    <string name="desglose_del_mes">Desglose del mes</string>
+    <string name="estadistica_anual">Estadistica anual</string>
+    <string name="desglose_de_dia">Desglose del dia</string>
+    <string name="tipo_de_gasto">Tipo de gasto</string>
+    <string name="estadistica_mensual">Estadistica mensual</string>
+    <string name="tipo_de_gasto_mes">Tipo de gasto mes</string>
+    <string name="preferencias">Preferencias</string>
+    			<!-- Lo que aparece en las actividades mediante codigo -->
+    <string name="hoy">HOY</string>
+</resources>

@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_lista_un_elemento_corriente_tipogasto.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/lista_un_elemento_corriente_tipogasto.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-xhdpi_ic_launcher1.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-xhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/raw_botoncomun.mp3.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/raw/botoncomun.mp3"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/anim_escalar.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/anim/escalar.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_desglosedemes.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/desglosedemes.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/anim_trasladar.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/anim/trasladar.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_flechaatras.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/flechaatras.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/menu_main.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/menu/main.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_ic_launcher1.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_nuevogastocorriente.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/nuevogastocorriente.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/raw_botoncasa.mp3.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/raw/botoncasa.mp3"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout-land_activity_main.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_lista_un_elemento_corriente.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/lista_un_elemento_corriente.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_preferencias.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/preferencias.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_eliminarpuntuales.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/eliminarpuntuales.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-hdpi_ic_launcher1.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable_boton.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable/boton.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_desglosededia.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/desglosededia.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_listadesglose.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/listadesglose.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_estadisticaanual.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/estadisticaanual.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_guardarseleccionado.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/guardarseleccionado.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_nuevoingresofijo.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/nuevoingresofijo.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_nuevogastofijo.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/nuevogastofijo.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/raw_botonadelante.mp3.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/raw/botonadelante.mp3"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_listameses.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/listameses.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_lista_un_gasto.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/lista_un_gasto.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_estadisticaopciones.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/estadisticaopciones.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_nuevoingresopuntual.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/nuevoingresopuntual.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_eliminarfijos.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/eliminarfijos.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_lista_un_elemento_corriente_ingresos.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/lista_un_elemento_corriente_ingresos.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_listaanios.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/listaanios.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_dibujo.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/dibujo.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_flechaadelanteseleccionada.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/flechaadelanteseleccionada.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/anim_animar.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/anim/animar.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_estadisticadeuntipogasto.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/estadisticadeuntipogasto.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable_botonsiguiente.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable/botonsiguiente.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/raw_botonatras.mp3.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/raw/botonatras.mp3"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable_botonatras.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable/botonatras.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-xxhdpi_ic_launcher1.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/raw_botonguardar.mp3.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/raw/botonguardar.mp3"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_dibujoseleccionado.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/dibujoseleccionado.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_estadisticamensual.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/estadisticamensual.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_fondopeque.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/fondopeque.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_fondo.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/fondo.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_home.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/home.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_flechaadelante.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/flechaadelante.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_flechaatrasseleccionada.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/flechaatrasseleccionada.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_guardar.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/guardar.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable-mdpi_configuracion.png.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable-mdpi/configuracion.png"
+    },
+    {
+        "merged": "com.plcg.miscuentas.MisCuentas-merged_res-4:/drawable_botonguardar.xml.flat",
+        "source": "com.plcg.miscuentas.MisCuentas-main-6:/drawable/botonguardar.xml"
+    }
+]

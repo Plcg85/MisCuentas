@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agua">#00FFFF</color>
+    <color name="amarillo">#FFFF00</color>
+    <color name="azul">#0000FF</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="fuxia">#FF00FF</color>
+    <color name="gris">#808080</color>
+    <color name="lima">#00FF00</color>
+    <color name="marino">#000080</color>
+    <color name="marron">#800000</color>
+    <color name="morado">#800080</color>
+    <color name="negro">#000000</color>
+    <color name="oliva">#808000</color>
+    <color name="plata">#C0C0C0</color>
+    <color name="rojo">#FF0000</color>
+    <color name="te">#008080</color>
+    <color name="verde">#008000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="activado">Activado</string>
+    <string name="anio">Año</string>
+    <string name="app_name">Mis Cuentas</string>
+    <string name="barra">/</string>
+    <string name="cero">0.00 €</string>
+    <string name="concepto">Concepto</string>
+    <string name="concepto_del_gasto">Concepto del gasto</string>
+    <string name="copia_de_seguridad">Copia de seguridad</string>
+    <string name="desactivado">Desactivado</string>
+    <string name="desglose_de_dia">Desglose del dia</string>
+    <string name="desglose_del_mes">Desglose del mes</string>
+    <string name="dia">Dia</string>
+    <string name="elige_un_anio">Elige un año</string>
+    <string name="elige_un_mes">Elige un mes</string>
+    <string name="eliminar_fijos">Eliminar Fijos</string>
+    <string name="eliminar_gastos_fijos">Eliminar Gastos Fijos</string>
+    <string name="eliminar_gastos_puntuales">Eliminar Gastos Puntuales</string>
+    <string name="eliminar_ingresos_fijos">Eliminar Ingresos Fijos</string>
+    <string name="eliminar_ingresos_puntuales">Eliminar Ingresos Puntuales</string>
+    <string name="eliminar_puntuales">Eliminar Puntuales</string>
+    <string name="estadistica_anual">Estadistica anual</string>
+    <string name="estadistica_mensual">Estadistica mensual</string>
+    <string name="estadisticas">Estadisticas</string>
+    <string name="gastado">Gastado</string>
+    <string name="gastos_puntuales">Gastos Puntuales</string>
+    <string name="grafica_del_mes">Grafica del mes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hoy">HOY</string>
+    <string name="ingresado">Ingresado</string>
+    <string name="ingresos_puntuales">Ingresos Puntuales</string>
+    <string name="introduce_una_contrasenia">Introduce una contraseña</string>
+    <string name="mas_gasto_fijo">+ Gasto Fijo</string>
+    <string name="mas_gasto_puntual">+ Gasto Puntual</string>
+    <string name="mas_ingreso_fijo">+ Ingreso Fijo</string>
+    <string name="mas_ingreso_puntual">+ Ingreso Puntual</string>
+    <string name="menos_fijos">- Fijos</string>
+    <string name="menos_puntuales">- Puntuales</string>
+    <string name="mes">Mes</string>
+    <string name="nuevo_gasto_corriente">Nuevo Gasto Corriente</string>
+    <string name="nuevo_gasto_fijo">Nuevo Gasto Fijo</string>
+    <string name="nuevo_ingreso_fijo">Nuevo Ingreso Fijo</string>
+    <string name="nuevo_ingreso_puntual">Nuevo Ingreso Puntual</string>
+    <string name="opciones">Opciones</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="restaurar">Restaurar</string>
+    <string name="restaurar_copia">Restaurar copia</string>
+    <string name="sonido_general"> Sonido general</string>
+    <string name="tipo_de_gasto">Tipo de gasto</string>
+    <string name="tipo_de_gasto_mes">Tipo de gasto mes</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

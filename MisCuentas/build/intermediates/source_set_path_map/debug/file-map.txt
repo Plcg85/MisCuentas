@@ -1,0 +1,7 @@
+com.plcg.miscuentas.MisCuentas-pngs-0 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\build\generated\res\pngs\debug
+com.plcg.miscuentas.MisCuentas-resValues-1 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\build\generated\res\resValues\debug
+com.plcg.miscuentas.MisCuentas-packageDebugResources-2 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.plcg.miscuentas.MisCuentas-packageDebugResources-3 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.plcg.miscuentas.MisCuentas-merged_res-4 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\build\intermediates\merged_res\debug
+com.plcg.miscuentas.MisCuentas-debug-5 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\debug\res
+com.plcg.miscuentas.MisCuentas-main-6 I:\apuntesmedac\programacion\MisCuentas\MisCuentas\src\main\res
